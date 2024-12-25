@@ -16,6 +16,8 @@
 
 # Dataset
 
+The dataset used in this project contains the following attributes:
+
 |Attributes                 |Description                                                                 |
 |:---------------------------|:--------------------------------------------------------------------------|
 |**Gender**                 |Male/Female                                                                 |
