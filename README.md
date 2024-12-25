@@ -16,24 +16,24 @@
 
 # Dataset
 
-|Attributes             |Description                                                                 |
-|-----------------------|:---------------------------------------------------------------------------|
-|Gender                 |Male/Female                                                                 |
-|Age                    |Age of the person                                                           |
-|Smoking                |Indicates if the patient smokes(1/2)                                        |
-|Yellow Fingers         |Indicates if the patient has yellow fingers (YES = 2, NO = 1)               |
-|Anxiety                |Indicates if the patient experiences anxiety (YES = 2, NO = 1)              |
-|Peer Pressure          |Indicates if the patient is under peer pressure (YES = 2, NO = 1)           |
-|Chronic Disease        |Indicates if the patient has a chronic disease (YES = 2, NO = 1)            |
-|Fatigue                |Indicates if the patient experiences fatigue (YES = 2, NO = 1)              |
-|Allergy                |Indicates if the patient has allergies (YES = 2, NO = 1)                    |
-|Wheezing               |Indicates if the patient experiences wheezing (YES = 2, NO = 1)             |
-|Alcohol                |Indicates if the patient consumes alcohol (YES = 2, NO = 1)                 |
-|Coughing               |Indicates if the patient experiences coughing (YES = 2, NO = 1)             |
-|Shortness of Breath    |Indicates if the patient experiences shortness of breath (YES = 2, NO = 1)  |
-|Swallowing Difficulty  |Indicates if the patient has difficulty swallowing (YES = 2, NO = 1)        |
-|Chest Pain             |Indicates if the patient experiences chest pain (YES = 2, NO = 1)           |
-|Lung Cancer            |Final diagnosis indicating presence of lung cancer (YES, NO)                |
+|Attributes                 |Description                                                                 |
+|:---------------------------|:--------------------------------------------------------------------------|
+|**Gender**                 |Male/Female                                                                 |
+|**Age**                    |Age of the patient                                                          |
+|**Smoking**                |Indicates if the patient smokes(1/2)                                        |
+|**Yellow Fingers**         |Indicates if the patient has yellow fingers (YES = 2, NO = 1)               |
+|**Anxiety**                |Indicates if the patient experiences anxiety (YES = 2, NO = 1)              |
+|**Peer Pressure**          |Indicates if the patient is under peer pressure (YES = 2, NO = 1)           |
+|**Chronic Disease**        |Indicates if the patient has a chronic disease (YES = 2, NO = 1)            |
+|**Fatigue**                |Indicates if the patient experiences fatigue (YES = 2, NO = 1)              |
+|**Allergy**                |Indicates if the patient has allergies (YES = 2, NO = 1)                    |
+|**Wheezing**               |Indicates if the patient experiences wheezing (YES = 2, NO = 1)             |
+|**Alcohol**                |Indicates if the patient consumes alcohol (YES = 2, NO = 1)                 |
+|**Coughing**               |Indicates if the patient experiences coughing (YES = 2, NO = 1)             |
+|**Shortness of Breath**    |Indicates if the patient experiences shortness of breath (YES = 2, NO = 1)  |
+|**Swallowing Difficulty**  |Indicates if the patient has difficulty swallowing (YES = 2, NO = 1)        |
+|**Chest Pain**             |Indicates if the patient experiences chest pain (YES = 2, NO = 1)           |
+|**Lung Cancer**            |Final diagnosis indicating presence of lung cancer (YES, NO)                |
 
 # Workflow
 
