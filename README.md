@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-* [Overview](https://github.com/AnjusriKandi/Lung-Cancer-Detection/edit/main/README.md#overview)
+* [Overview](https://github.com/AnjusriKandi/Lung-Cancer-Detection/main/README.md#overview)
 * [Dataset](https://github.com/AnjusriKandi/Lung-Cancer-Detection/edit/main/README.md#dataset)
 * [Workflow](https://github.com/AnjusriKandi/Lung-Cancer-Detection/edit/main/README.md#workflow)
 * [Modeling](https://github.com/AnjusriKandi/Lung-Cancer-Detection/edit/main/README.md#modeling)
