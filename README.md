@@ -22,7 +22,7 @@ The dataset used in this project contains the following attributes:
 |:---------------------------|:--------------------------------------------------------------------------|
 |**Gender**                 |Male/Female                                                                 |
 |**Age**                    |Age of the patient                                                          |
-|**Smoking**                |Indicates if the patient smokes(1/2)                                        |
+|**Smoking**                |Indicates if the patient smokes(YES = 2, NO = 1)                            |
 |**Yellow Fingers**         |Indicates if the patient has yellow fingers (YES = 2, NO = 1)               |
 |**Anxiety**                |Indicates if the patient experiences anxiety (YES = 2, NO = 1)              |
 |**Peer Pressure**          |Indicates if the patient is under peer pressure (YES = 2, NO = 1)           |
