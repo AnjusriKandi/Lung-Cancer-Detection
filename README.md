@@ -5,10 +5,10 @@
 # Table of Contents
 
 * [Overview](https://github.com/AnjusriKandi/Lung-Cancer-Detection?tab=readme-ov-file#overview)
-* [Dataset](https://github.com/AnjusriKandi/Lung-Cancer-Detection/blob/main/README.md#dataset)
-* [Workflow](https://github.com/AnjusriKandi/Lung-Cancer-Detection/blob/main/README.md#workflow)
-* [Modeling](https://github.com/AnjusriKandi/Lung-Cancer-Detection/blob/main/README.md#modeling)
-* [Results](https://github.com/AnjusriKandi/Lung-Cancer-Detection/blob/main/README.md#results)
+* [Dataset](https://github.com/AnjusriKandi/Lung-Cancer-Detection?tab=readme-ov-file#dataset)
+* [Workflow](https://github.com/AnjusriKandi/Lung-Cancer-Detection?tab=readme-ov-file#workflow)
+* [Modeling](https://github.com/AnjusriKandi/Lung-Cancer-Detection?tab=readme-ov-file#modeling)
+* [Results](https://github.com/AnjusriKandi/Lung-Cancer-Detection?tab=readme-ov-file#results)
 
 # Overview
 
